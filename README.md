@@ -1,4 +1,4 @@
-# ExplorerImageTool (expimage)
+# Explorer Custom (expimage)
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows_11-lightgrey.svg)
@@ -15,7 +15,7 @@ Unlike other tools, this does **NOT** use DLL injection. It uses a pure, safe ov
 Get your images showing in Explorer in just a few seconds!
 
 ### Step 1: Download
-1. Go to the **Releases** page on this repository.
+1. Go to the **[Releases](https://github.com/kokorodonguri/explorer-custom/releases/latest)** page on this repository.
 2. Download the latest executable file (e.g., `expimage-x64-arm64.exe`).
 3. Place the `.exe` file into a dedicated folder anywhere on your PC.
 
